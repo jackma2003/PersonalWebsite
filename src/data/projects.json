@@ -1,0 +1,24 @@
+[
+    {
+        "title": "Fullstack Airline Reservation System",
+        "imageSrc": "projects/airplane.png",
+        "description": "Fullstack web application that simulates real-life airline reservation systems",
+        "skills": ["MySQL", "Python Flask", "HTML", "CSS", "JavaScript"],
+        "source": "https://github.com/jackma2003/Fullstack-Airline-Reservation-System" 
+    },
+    {
+        "title": "Java Whack-A-Mole",
+        "imageSrc": "projects/whackamole.png",
+        "description": "Whack A Mole game made with purely Java, can be both single and multiplayer",
+        "skills": ["Java", "Network Sockets", "AWT", "JDBC", "Threading"],
+        "source": "https://github.com/dooont/java_final_project"
+    },
+    {
+        "title": "2D Platform Game",
+        "imageSrc": "projects/2dplatformer.png",
+        "description": "Pokemon themed 2D Platform scavenger hunt game made with C++ OpenGL and SDL libraries",
+        "skills": ["C++", "OpenGL", "SDL"],
+        "source": "https://github.com/jackma2003/RedGotLost-"
+    }
+
+]

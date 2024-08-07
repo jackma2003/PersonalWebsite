@@ -1,0 +1,27 @@
+[
+    {
+        "role": "Software Engineer Fellow",
+        "organization": "Headstarter AI",
+        "startDate": "July 2024",
+        "endDate": "September 2024",
+        "experiences": ["Extensive 7 week CS fellowship with heavy emphasis on practical application development", "Developed 5 AI projects", "Spearheaded a high-impact final project with ambitious metrics: targeting 1000 active users or $1000 in revenue"],
+        "imageSrc": "history/headstarter.png"
+    },
+    {
+        "role": "Backend Developer Intern",
+        "organization": "GBCS Group",
+        "startDate": "June 2024",
+        "endDate": "September 2024",
+        "experiences": ["Fleet Software Optimization Dev Team","Optimized fleet management process by updating RESTful API using Django and Postman", "Tested and created multiple API endpoints, reviewed over a dozen pull requests"],
+        "imageSrc": "history/gbcs.png"
+    },
+    {
+        "role": "Technical Assistant/Training Team Lead",
+        "organization": "NYU MakerSpace",
+        "startDate": "June 2022",
+        "endDate": "May 2025",
+        "experiences": ["Assisted with frontend development for MakerSpace central that store transactions and trainings of all customers of the MakerSpace using Vue.JS", "Lead weekly meetings for the training team", "Help customers on machinery/questions on a daily basis"],
+        "imageSrc": "history/makerspace.png"
+    }
+
+]

@@ -1,0 +1,86 @@
+@import "../../vars.css";
+
+.container {
+    color: var(--color-text);
+    margin-top: 120px;
+    background-color: var(--color-secondary);
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    width: 100vw;
+    padding: 58px;
+    gap: 10px;
+}
+
+.text h2 {
+    font-size: 80px;
+    font-weight: 700;
+    letter-spacing: 4px;
+}
+
+.text p {
+    font-size: 40px;
+    font-weight: 400;
+    letter-spacing: 2px;
+}
+
+.links {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    list-style: none;
+    gap: 26px;
+}
+
+.link {
+    display: flex;
+    align-items: center;
+    gap: 25px;
+    padding: 5px 10px;
+    border-radius: 5px;
+    transition: background-color 0.3s ease-in-out;
+}
+
+.link:hover {
+    background-color: rgba(255, 255, 255, 0.1);
+}
+
+.link a {
+    color: var(--color-text);
+    text-decoration: none;
+    font-size: 30px;
+    font-weight: 400;
+    letter-spacing: 1.5px;
+}
+
+.link a,
+.link img {
+    transition: all 0.3s ease-in-out;
+}
+
+.link:hover img {
+    transform: scale(1.1);
+    filter: brightness(1.2);
+}
+
+.link:hover a {
+    color: var(--color-primary);
+}
+
+@media screen and (max-width: 830px) {
+    .container {
+        flex-direction: column;
+        gap: 23px;
+    }
+
+    .text {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .links {
+        align-items: center;
+    }
+
+}
