@@ -12,7 +12,7 @@
         "organization": "GBCS Group",
         "startDate": "June 2024",
         "endDate": "September 2024",
-        "experiences": ["Fleet Software Optimization Dev Team","Optimized fleet management process by updating RESTful API using Django and Postman", "Tested and created multiple API endpoints, reviewed over a dozen pull requests"],
+        "experiences": ["Fleet Software Optimization Dev Team","Optimized existing RESTful API, enhancing fleet management efficiency with Django", "Refactored and tested multiple API endpoints, improving performance and reducing response times with Postman", "Conducted thorough code reviews for 10+ pull requests, identifying optimization opportunities and ensuring adherence to best practices"],
         "imageSrc": "history/gbcs.png"
     },
     {
@@ -20,7 +20,7 @@
         "organization": "NYU MakerSpace",
         "startDate": "June 2022",
         "endDate": "May 2025",
-        "experiences": ["Assisted with frontend development for MakerSpace central that store transactions and trainings of all customers of the MakerSpace using Vue.JS", "Lead weekly meetings for the training team", "Help customers on machinery/questions on a daily basis"],
+        "experiences": ["Developed front-end features for MakerSpace Central, a web app tracking customer transactions & training records with Vue.js", "Facilitated weekly training team meetings, ensuring updates to training documentation and TA onboarding processes", "Provided daily hands-on support to patrons, offering expert guidance on machinery operation and addressing technical inquiries"],
         "imageSrc": "history/makerspace.png"
     }
 
