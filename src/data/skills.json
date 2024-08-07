@@ -28,15 +28,15 @@
         "imageSrc": "skills/mongodb.png"
     },
     {
-        "title": "Express",
+        "title": "Express.js",
         "imageSrc": "skills/express.png"
     },
     {
-        "title": "React",
+        "title": "React.js",
         "imageSrc": "skills/react.png"
     },
     {
-        "title": "Node",
+        "title": "Node.js",
         "imageSrc": "skills/node.png"
     },
     {
@@ -44,7 +44,7 @@
         "imageSrc": "skills/mySQL.png"
     },
     {
-        "title": "Vue",
+        "title": "Vue.js",
         "imageSrc": "skills/vue.png"
     },
     {
@@ -56,8 +56,8 @@
         "imageSrc": "skills/django.png"
     },
     {
-        "title": "AWS",
-        "imageSrc": "skills/aws.png"
+        "title": "Next.js",
+        "imageSrc": "skills/nextjs.png"
     },
     {
         "title": "Postman",
