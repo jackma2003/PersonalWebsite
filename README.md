@@ -1,5 +1,8 @@
-# React + Vite
+## Welcome to my personal website repository! 👋
 
-This is my personal website!
+## 🛠️ Built With
+- React + Vite
+- Deployed on netlify 
 
-You can check it out live at https://jackma2003.netlify.app/
+## 🌐 Live Demo
+Check out the live version of my website at [jackma2003.netlify.app](https://jackma2003.netlify.app/) 🎉
