@@ -14,10 +14,28 @@
     text-transform: uppercase;
 }
 
-.projects {
+.projectsGrid {
     margin-top: 37px;
-    display: flex;
-    grid-template-columns: repeat(auto-fill, minmax(300px, fr));
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
     gap: 20px;
     width: 100%;
+}
+
+@media (max-width: 1200px) {
+    .projectsGrid {
+        grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+    }
+}
+
+@media (max-width: 900px) {
+    .projectsGrid {
+        grid-template-columns: repeat(auto-fill, minmax(180px, 1fr));
+    }
+}
+
+@media (max-width: 600px) {
+    .projectsGrid {
+        grid-template-columns: 1fr;
+    }
 }

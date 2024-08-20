@@ -1,5 +1,12 @@
 [
     {
+        "title": "Text2Card",
+        "imageSrc": "projects/text2card.png",
+        "description": "AI flashcard creation tool, transforms text into flashcards",
+        "skills": ["Next.js", "React.js", "Firebase", "Material-UI", "OpenAI API", "Clerk API", "Stripe API"],
+        "source": "https://github.com/jackma2003/AIFlashcards" 
+    },
+    {
         "title": "Jack's Pantry Buddy",
         "imageSrc": "projects/pantry.png",
         "description": "Pantry tracker with image capturing and recipe suggestions",

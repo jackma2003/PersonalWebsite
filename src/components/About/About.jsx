@@ -16,21 +16,21 @@ export const About = () => {
                         <img src={getImageUrl("about/cursorIcon.png")} alt="cursor"/>
                         <div className={styles.aboutItemText}>
                             <h3>Software Engineer</h3>
-                            <p>I'm a software engineer with experience in multiple programming languages, technologies and developed software applications</p>
+                            <p>Aspiring software engineer with a solid foundation in multiple programming languages and technologies, eager to apply problem-solving skills to develop scalable applications and grow expertise in end-to-end solution architecture.</p>
                         </div>
                     </li>
                     <li className={styles.aboutItem}>
                         <img src={getImageUrl("about/uiIcon.png")} alt="icon"/>
                         <div className={styles.aboutItemText}>
                             <h3>Frontend Developer</h3>
-                            <p>I'm a frontend developer with experience in building responsive and user friendly applications</p>
+                            <p>Motivated frontend developer with a keen eye for design, proficient in modern frameworks and committed to creating responsive, user-friendly interfaces that enhance the overall user experience.</p>
                         </div>
                     </li>
                     <li className={styles.aboutItem}>
                         <img src={getImageUrl("about/serverIcon.png")} alt="server"/>
                         <div className={styles.aboutItemText}>
                             <h3>Backend Developer</h3>
-                            <p>I'm a backend developer with experience in developing fast and optimized backend systems and APIs for applications</p>
+                            <p>Dedicated backend developer with a strong theoretical understanding of server-side technologies, databases, and API development, ready to contribute to building efficient and scalable backend systems.</p>
                         </div>
                     </li>
                 </ul>

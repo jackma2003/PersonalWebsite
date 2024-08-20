@@ -7,7 +7,7 @@ export const Hero = () => {
     <section className={styles.container}>
         <div className={styles.content}>
             <h1 className={styles.title}>Hi, I'm Jack</h1>
-            <p className={styles.description}>I'm a Software Engineer based in NYC with a B.S in Computer Science from NYU, I have a strong passion for full-stack development.
+            <p className={styles.description}>I'm an aspiring Software Engineer based in NYC with a B.S in Computer Science from NYU, I have a strong passion for full-stack development.
                 Feel free to reach out if you'd like to learn more about me!
             </p>
             <a href="mailto:jiahaoma2000@gmail.com" className={styles.contactBtn}>
