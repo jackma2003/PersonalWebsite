@@ -1,5 +1,12 @@
 [
     {
+        "title": "RMP-RAG ChatBot",
+        "imageSrc": "projects/rmp.png",
+        "description": "Rate My Professor Chatbot that uses RAG to retrieve information",
+        "skills": ["Next.js", "React.js", "Pinecone", "Material-UI", "OpenAI API"],
+        "source": "https://github.com/lc4490/rmp-rag" 
+    },
+    {
         "title": "Text2Card",
         "imageSrc": "projects/text2card.png",
         "description": "AI flashcard creation tool, transforms text into flashcards",
@@ -17,7 +24,7 @@
         "title": "Fullstack Airline Reservation System",
         "imageSrc": "projects/airplane.png",
         "description": "Fullstack web application that simulates real-life airline reservation systems",
-        "skills": ["MySQL", "Python Flask", "HTML", "CSS", "JavaScript"],
+        "skills": ["MySQL", "Flask", "Jinja", "HTML", "CSS", "JavaScript"],
         "source": "https://github.com/jackma2003/Fullstack-Airline-Reservation-System" 
     },
     {
