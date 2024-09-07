@@ -46,6 +46,7 @@
     width: 120px;
     height: 120px;
     transition: all 0.3s ease-in-out;
+    overflow: hidden;
 }
 
 .skillImageContainer:hover {

@@ -1,5 +1,19 @@
 [
     {
+        "title": "Richard Guang Real Estate",
+        "imageSrc": "projects/realestate.png",
+        "description": "Freelance project showcasing Richard's real estate",
+        "skills": ["Vue.js", "Tailwind", "I18n"],
+        "source": "https://github.com/jackma2003/richardguang_website" 
+    },
+    {
+        "title": "TrainerGPT",
+        "imageSrc": "projects/trainer.png",
+        "description": "Personal Trainer Chatbot with workout and nutritional trackers",
+        "skills": ["Next.js", "React.js", "Firebase", "Material-UI", "OpenAI API", "Clerk API", "Stripe API"],
+        "source": "https://github.com/lc4490/trainerGPT" 
+    },
+    {
         "title": "RMP-RAG ChatBot",
         "imageSrc": "projects/rmp.png",
         "description": "Rate My Professor Chatbot that uses RAG to retrieve information",
